@@ -1,4 +1,5 @@
 # myFirstSite
+to learn how to make a website
 
 勉強がてら
 のんびり作る
