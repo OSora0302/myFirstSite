@@ -1,4 +1,5 @@
 # myFirstSite
-to learn how to make a website
+
+作りながら勉強してます
 
 [link](https://osora0302.github.io/myFirstSite/)
