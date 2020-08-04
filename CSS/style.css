@@ -1,3 +1,10 @@
 html {
     background-color: azure;
 }
+
+header, footer {
+    padding: 5px 10px;
+    font-size: 20px;
+    background-color: #000022;
+    color: azure;
+}
